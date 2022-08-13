@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elpablo5542
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python and C#
 - 📫 How to reach me ⃟⃝#2977 on Discord
 
 <!---
