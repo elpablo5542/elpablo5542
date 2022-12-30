@@ -1,6 +1,6 @@
--currently learning Python and C# \n
--Discord: ⃟⃝#2977 \n
--Signal: ElPablo5542 \n
+-currently learning Python and C# 
+-Discord: ⃟⃝#2977 
+-Signal: ElPablo5542 
 
 
 <!---
