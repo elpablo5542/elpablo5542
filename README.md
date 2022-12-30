@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @elpablo5542
-- 🌱 I’m currently learning Python and C#
-- 📫 How to reach me ⃟⃝#2977 on Discord
+currently learning Python and C#
+Discord: ⃟⃝#2977
+Signal: ElPablo5542
+
 
 <!---
 elpablo5542/elpablo5542 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
