@@ -1,6 +1,5 @@
 -currently learning Python and C#  
 -Discord: ⃟⃝#2977  
--Signal: ElPablo5542  
 
 
 <!---
